@@ -1,0 +1,4 @@
+record Cedarling {
+    field1: string;
+    field2: i32;
+}
