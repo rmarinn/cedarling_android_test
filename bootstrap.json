@@ -1,6 +1,6 @@
 {
     "CEDARLING_APPLICATION_NAME": "My App",
-    "CEDARLING_POLICY_STORE_URI": "https://gluu.org",
+    "CEDARLING_POLICY_STORE_URI": "https://raw.githubusercontent.com/duttarnab/cedarling_android/refs/heads/main/policy-store.json",
     "CEDARLING_POLICY_STORE_ID": "gICAgcHJpbmNpcGFsIGlz",
     "CEDARLING_LOG_TYPE": "std_out",
     "CEDARLING_LOG_LEVEL": "INFO",
