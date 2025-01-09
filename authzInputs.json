@@ -1,0 +1,30 @@
+{
+  "action": "Jans::Action::\"Read\"",
+  "resource": {
+    "type": "Jans::Application",
+    "id": "some_id",
+    "app_id": "application_id",
+    "name": "Some Application",
+    "url": {
+      "host": "jans.test",
+      "path": "/protected-endpoint",
+      "protocol": "http"
+    }
+  },
+  "context": {
+    "current_time": 1736434673,
+    "device_health": [
+      "Healthy"
+    ],
+    "fraud_indicators": [
+      "Allowed"
+    ],
+    "geolocation": [
+      "America"
+    ],
+    "network": "127.0.0.1",
+    "network_type": "Local",
+    "operating_system": "Linux",
+    "user_agent": "Linux"
+  }
+}
